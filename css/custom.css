@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+	background-position: top center;
+	background-size: cover;
+}
+
+.wdlogo {
+	margin: 12% 4% 4% 4%;
+}
+
+.bannerad {
+	margin: 13% 4% 4% 4%;
+}
+
+.cast {
+	margin: 1% 2% 2% 2%;
+}
+
+.merchandise {
+	margin: 1% 2% 2% 2%;
+}
+
+.reviews {
+	margin: 1% 2% 2% 2%;
+}
+
+.events {
+	margin: 1% 2% 2% 2%;
+}
+
+
+/*.jborder {
+	border: 5px solid blue;
+}*/
+
+.jumbotron {
+	background-image: url(../img/jumbotron2b.jpg);
+	background-size: cover;
+}
+
+footer {
+	background-color: black;
+	padding: .5% 2%;
+	color: #fff;
+	position: absolute;
+	width: 100%;
+	/*margin: 30px 0;*/
+}
+
+h1,
+h2,
+h3,
+h4 * {
+	color: yellow;
+}
